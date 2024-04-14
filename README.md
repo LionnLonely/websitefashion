@@ -1,7 +1,7 @@
 # Website - Fashtion cho Cửa Hàng Bán Quần Áo
 👋🏾 👩🏾‍💻
 
-## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/blog/programming_hgngx9.png"></a>
+## Thành viên <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/blog/programming_hgngx9.png"></a>
 - Nguyễn Hoàng Phúc
 - Nguyễn Hữu Minh Luân
 - Nguyễn Thiện Bình
