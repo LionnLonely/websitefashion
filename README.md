@@ -11,7 +11,7 @@
 ## 🛠️ Project Website Fashion
 1. Clone the repository
 ```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+git clone https://github.com/LionnLonely/websitefashion.git
 ```
 
 2. Mô tả chức năng
