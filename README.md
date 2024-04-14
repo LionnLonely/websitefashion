@@ -6,12 +6,10 @@
 - Nguyễn Hữu Minh Luân
 - Nguyễn Thiện Bình
 - Nguyễn Trần Nhật Thái
-
+##
 
 ## 🛠️ Project Website Fashion
-
 1. Clone the repository
-
 ```bash
 git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
 ```
