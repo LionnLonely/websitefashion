@@ -16,10 +16,21 @@ git clone https://github.com/LionnLonely/websitefashion.git
 
 2. Mô tả chức năng
 a. Quản trị viên
-- Quản lý (sửa, xóa) user
-- Quản lý sản phẩm
-- Quản lý đơn hàng
+- Phân quyền cho quản trị.
+- Quản lý khách hàng.
+- Quản lý loại sản phẩm.
+- Quản lý sản phẩm.
+- Cập nhật thông tin sản phẩm.
+- Quản lý nhà cung cấp.
+- Quản lý đơn xuất, nhập hàng.
+- Thống kê báo cáo cuối tháng, cuối kỳ.
 b. Khách hàng
-- Tìm kiếm sản phẩm
-- Xem chi tiết sản phẩm
-- Quản lý giỏ hàng
+- Đăng ký, đăng nhập vào hệ thống website.
+- Trang bán hàng.
+- Trang tra cứu thông tin.
+- Trang tra cứu thời trang theo phong cách.
+- Trang tra cứu thời trang theo phân loại.
+- Trang tra cứu thời trang theo giá cả.
+- Trang tra cứu thông tin theo nhãn hiệu.
+- Mua hàng trực tuyến.
+
